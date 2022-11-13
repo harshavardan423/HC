@@ -1,1 +1,5 @@
-# Hand Control Module 
+# OpenCV Hand Control Module 
+
+  Control -
+      Volume ,
+      Cursor
