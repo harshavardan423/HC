@@ -3,3 +3,6 @@
   Control -
       Volume ,
       Cursor
+
+  Need to do -
+    Add Custom Gestures ( Such as Double-Click)
